@@ -1,0 +1,6 @@
+{
+  "name": "La Hermandad Barber Studio",
+  "description": "Suite integral para barbería con aplicación para clientes (citas, servicios con precios y galería de cortes) y portal conectado para barberos (gestión de citas y publicación de cortes).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
